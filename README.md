@@ -9,7 +9,7 @@ Uses [Guard](https://github.com/guard/guard) to watch for changes and update Sho
 
 ## Installation
 Make sure you have installed [Guard](https://github.com/guard/guard).
-
+w
 Add this line to your application's Gemfile:
 
     gem 'guard-shopifytheme'
@@ -102,4 +102,3 @@ end
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
